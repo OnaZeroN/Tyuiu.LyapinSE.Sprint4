@@ -31,7 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{6A135BFE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LyapinSE.Sprint4.Task3.V8", "Tyuiu.LyapinSE.Sprint4.Task3.V8\Tyuiu.LyapinSE.Sprint4.Task3.V8.csproj", "{C0B5FC5C-9E6B-4424-948A-64B4B2B8B9AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LyapinSE.Sprint4.Task3.V8.Task", "Tyuiu.LyapinSE.Sprint4.Task3.V8.Task\Tyuiu.LyapinSE.Sprint4.Task3.V8.Task.csproj", "{86D937B5-C194-46F9-9AB8-DFB4B91B7A02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LyapinSE.Sprint4.Task3.V8.Test", "Tyuiu.LyapinSE.Sprint4.Task3.V8.Task\Tyuiu.LyapinSE.Sprint4.Task3.V8.Test.csproj", "{86D937B5-C194-46F9-9AB8-DFB4B91B7A02}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LyapinSE.Sprint4.Task3.V8.Lib", "Tyuiu.LyapinSE.Sprint4.Task3.V8.Lib\Tyuiu.LyapinSE.Sprint4.Task3.V8.Lib.csproj", "{AB7B30B2-3CB3-45BD-82F4-6FD268DB07B0}"
 EndProject
