@@ -24,9 +24,9 @@ int[] array = [9, 8, 7, 9, 5, 4, 3, 2, 3, 7];
 Console.WriteLine("Исходный массив:");
 for (int i = 0; i <= array.Length - 1; i++)
 {
-    Console.WriteLine(array[i]);
+    Console.Write(array[i] + "\t");
 }
-
+Console.WriteLine();
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
 Console.WriteLine("***************************************************************************");
